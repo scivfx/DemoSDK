@@ -13,6 +13,216 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\Render">
+      <UniqueIdentifier>{aab406b9-a646-4fee-bce0-c82915bfc17e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Pack">
+      <UniqueIdentifier>{61db7415-6bda-41ab-9c4f-1d99c95fd6c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Audio">
+      <UniqueIdentifier>{4cda5b24-35b9-4230-84ef-920ae5ce4a0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\VFX">
+      <UniqueIdentifier>{595449f4-602c-4fbb-84df-4d909ba4b0b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Parse">
+      <UniqueIdentifier>{eef2d35f-5a37-4e89-9424-01619f80c3c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DAT">
+      <UniqueIdentifier>{e5653416-23cd-4214-8027-93db3113096a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GPU">
+      <UniqueIdentifier>{988e53ba-ab41-4669-8d55-394293e54a74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\CPU">
+      <UniqueIdentifier>{395e4909-8273-455e-b30a-add41c68c392}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\FPU">
+      <UniqueIdentifier>{8cfac23b-0c97-41dd-9a41-20d37db011a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Input">
+      <UniqueIdentifier>{6fb04afc-a806-46ee-aa7d-d7d682985ef1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\OS">
+      <UniqueIdentifier>{200b4dc0-b3e0-484c-8a64-bb5ab634eb71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\FileSys">
+      <UniqueIdentifier>{b431465c-a639-4290-96c4-b6584019df18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\API">
+      <UniqueIdentifier>{983a7b8b-6e70-4db1-87e2-0d52b7f1e83b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Audio">
+      <UniqueIdentifier>{6fd7a029-b6ed-44b3-a64c-d50b0c374540}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Render">
+      <UniqueIdentifier>{f331a1ad-2c8a-4629-95b3-ed79a4f8dc14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Phys">
+      <UniqueIdentifier>{f577768f-c88c-4e3a-af00-1a7d11a2fdcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Timer">
+      <UniqueIdentifier>{1368397a-0f8a-444e-ad6d-ddbe4bb8aeb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Render\Vulkan">
+      <UniqueIdentifier>{41d353f2-d8e7-4e55-a36f-24fa5308834c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Render\OpenGL">
+      <UniqueIdentifier>{e2c5ac86-8be8-41ca-a673-93ba1ffcc001}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Render\Mantle">
+      <UniqueIdentifier>{51bb82d2-4773-4ddc-b8cb-a499a9e25d9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Render\DirectX">
+      <UniqueIdentifier>{0d835983-7b6c-45ee-922b-0be6608485e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Pack\LZSS">
+      <UniqueIdentifier>{d349e209-d96a-46db-bd05-6256bca1bbc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Pack\LZ4">
+      <UniqueIdentifier>{42c02d6a-75c3-4b51-b73f-969f3732224e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Scene">
+      <UniqueIdentifier>{e421ea06-5432-4459-bff1-68acdba01613}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Camera">
+      <UniqueIdentifier>{0ec26eb2-8dc4-401c-bcfd-f93db4baa7ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\BRDF">
+      <UniqueIdentifier>{59352e86-b97f-4a20-a17e-04c4691ab18b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PBR">
+      <UniqueIdentifier>{5ede04ac-27aa-4e42-aee3-1d43f341d6d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Intro">
+      <UniqueIdentifier>{c81b3d48-bc83-4e8b-b67b-cfc320e79453}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Credits">
+      <UniqueIdentifier>{b9c017c0-3e05-4611-afab-ff0abb3ced60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Async">
+      <UniqueIdentifier>{d272d32e-5fe6-422c-9140-132f405e2c2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Core">
+      <UniqueIdentifier>{71f24709-c770-4c6f-9c84-cfb1e9047cbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\VFX">
+      <UniqueIdentifier>{331cf281-8137-405c-b62d-367496778c30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SFX">
+      <UniqueIdentifier>{9cc977e1-d843-4e4f-9efa-66992d90a667}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\PBR">
+      <UniqueIdentifier>{459503e8-9b39-4391-84f4-32d8e1241642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\OS">
+      <UniqueIdentifier>{acae4e85-4549-4bcb-b278-c7fdb61891ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Parse">
+      <UniqueIdentifier>{ff0d0557-bb6b-4960-b1e9-de5c24841181}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Pack">
+      <UniqueIdentifier>{210181cc-0118-466c-9652-56d96928d340}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GPU">
+      <UniqueIdentifier>{fcf0d1b4-ea83-48a9-9428-d4b215fc6b4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API">
+      <UniqueIdentifier>{9bc7827e-83e7-4a8c-b3c1-370a4338e820}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Async">
+      <UniqueIdentifier>{79c85a39-2228-4479-9fdc-60ae67c9c3af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Texture">
+      <UniqueIdentifier>{653807d5-9f4b-4353-9c58-c784222d176f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Material">
+      <UniqueIdentifier>{e989d4f2-529d-4934-baae-773d4fe84848}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene">
+      <UniqueIdentifier>{b330505e-c535-4553-8496-00500229310c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Platform">
+      <UniqueIdentifier>{8107bc13-db63-4f10-94b1-d42cd7072184}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Platform\iOS">
+      <UniqueIdentifier>{8bd92f37-27ea-4e06-8c78-4c7a8f16deb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Platform\Linux">
+      <UniqueIdentifier>{f9f49819-bab9-4961-bf6c-c245cc83799d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Platform\Windows">
+      <UniqueIdentifier>{c7e9a0b8-279e-4dcc-9282-4362dbff8004}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Font">
+      <UniqueIdentifier>{f8483454-640a-48fe-a298-9431d8a1e98e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Debug">
+      <UniqueIdentifier>{96079f99-d135-4949-8f74-87d44c8e3763}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Bench">
+      <UniqueIdentifier>{5537ab9c-cea8-4d5f-9a1d-d1829702e7b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\HUD">
+      <UniqueIdentifier>{0d24b2a0-371e-43ef-a41e-61fac6ded6a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Platform">
+      <UniqueIdentifier>{aad4e305-dd22-4487-aae6-d1f966b25b51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Camera">
+      <UniqueIdentifier>{ee48371b-af26-44d6-b0b6-340370891eb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Intro">
+      <UniqueIdentifier>{8f8cbc9d-05b2-48d8-8193-1f0ecddc12fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Demo">
+      <UniqueIdentifier>{125d20ed-d6f7-406e-9d2a-4cfd02c81a10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Splash">
+      <UniqueIdentifier>{58bd7bd3-b83e-48a9-a359-9bff8c36779f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Logo">
+      <UniqueIdentifier>{dac69dee-32c4-4c7a-af81-77ee4df1dde2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Setup">
+      <UniqueIdentifier>{90ee8452-488e-484c-af13-c2894e359820}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Frame">
+      <UniqueIdentifier>{3e0072ab-2a85-49f7-8a40-5119e945df4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Algorithms">
+      <UniqueIdentifier>{efc65b28-d803-4293-8ed6-c6fe6538427f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Patterns">
+      <UniqueIdentifier>{a53dcd2c-33d7-43b1-bda6-0b5b4493a974}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DataStructures">
+      <UniqueIdentifier>{edea992b-1ec4-4bbc-932f-22ed1ed07561}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\FileSystem">
+      <UniqueIdentifier>{a45e6afb-0f46-4328-9cc6-45344fec02c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Setup">
+      <UniqueIdentifier>{4d4de7da-ce3f-4312-a345-7552c02aa2a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cipher">
+      <UniqueIdentifier>{c53f2173-5118-47b4-911c-fee3ea87c4bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DLL">
+      <UniqueIdentifier>{6fba7806-adf1-475c-b93e-04bdc47b4ec2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Load">
+      <UniqueIdentifier>{a6139a1a-e496-48d0-b8fc-78775e37fd4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Thread">
+      <UniqueIdentifier>{d37c6244-2b11-4e27-b930-22f47656d34c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Boot">
+      <UniqueIdentifier>{b5343d0b-ed55-44f8-a388-6c516de85092}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MFX">
+      <UniqueIdentifier>{ce23d613-80e8-44a0-b5ae-2fc6f5ff5e50}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -24,10 +234,45 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DemoSDK.h">
+      <Filter>API</Filter>
+    </ClInclude>
+    <ClInclude Include="Demo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="String.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DemoSDK.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>
